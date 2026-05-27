@@ -6,7 +6,7 @@ A "generic" tamagotchi, shaped like a flower. It has three interactive buttons a
 As a constant fiction writer, I've always wanted to create my own special dialogue-based game. This gave me the perfect chance to do so, while including extrenally aeshtetic pleasures as well.
 
 ## ***Start playing!!***
-1. Plug in the PCB into your computer, and load the _hanagotchi_ code into the ESP32's file.
+1. Plug in the PCB into your computer, and load the _hanagotchi.py_ file into the ESP32's file.
 2. Once uploaded, unplug the PCB. Insert a battery in the pack on the back.
 3. Put the PCB into the case, with the side with the OLED screen facing up. Close the box, and press the power on button (as pointed to on the case).
 4. The OLED screen should start displaying text!! Use the buttons to guide the story when the screen displays choices. Have fun!
