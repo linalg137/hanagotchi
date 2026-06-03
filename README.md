@@ -1,15 +1,30 @@
 # HANAGOTCHI
 --image--  
-A "generic" tamagotchi, shaped like a flower. It has three interactive buttons and an OLED screen, all for leading the user through a fun choose-your-own story style text-based game. The more time spent, the more the user'll learn about all the lore and plot.  
+A small "tamagotchi", shaped like a flower. It has three interactive buttons and an OLED screen, and can play many different files-- coded in micropython. The more time spent, the more the user'll learn about all the lore and plot.  
 
 ## ***Inspiration***
 As a constant fiction writer, I've always wanted to create my own special dialogue-based game. This gave me the perfect chance to do so, while including extrenally aeshtetic pleasures as well.
 
-## ***Start playing!!***
-1. Plug in the PCB into your computer, and load the _hanagotchi.py_ file into the ESP32's file.
-2. Once uploaded, unplug the PCB. Insert a battery in the pack on the back.
-3. Put the PCB into the case, with the side with the OLED screen facing up. Close the box, and press the power on button (as pointed to on the case).
-4. The OLED screen should start displaying text!! Use the buttons to guide the story when the screen displays choices. Have fun!
+## ***Full Instructions~***
+
+**getting the pcb**
+1. go to https://jlcpcb.com/. click "get instant quote".
+2. download the gerber zip file from the pcb folder and upload it.
+3. you can change the color of the PCB if you'd like, but keep all the other settings the same.
+4. order your PCB by following the steps on the website.
+
+**getting the parts**
+1. To find all the suitable parts needed for this pcb, open the BOM file. This lists all the necessary parts needed for the PCB-- you'll see several links leading to product pages.
+
+**printing the case**
+1. download the STL files, or go open this onshape link: [https://cad.onshape.com/documents/30ca1b2b31257d2650154877/w/6a6ce5b2935f39e9888c6e90/e/9cf32ad964649424d66e1c2f?renderMode=0&uiState=6a1fb2345d12723005a9a689](https://cad.onshape.com/documents/cbb68b9589daf277c9578781/w/eef88f9737002ddb59d7612d/e/e6992a34dc4435c059d9da9e?renderMode=0&uiState=6a20adc240c23c91ee920c5a).
+2. follow the directions on your own 3D printer's manufacturer's website/app to upload the STL files in and print them. support for the prints are not neeeded, as long as you have the models sitting on the correct side.
+
+**soldering and putting everything together**
+1. solder the pieces together in their designated spots. You can use the .step file to see how it should look like in the end (the battery cell is optional). 
+2. After you're done soldering it, plug the ESP32 into your device using a USB-C.
+3. Import micropython onto your ESP32 by uploading the ESP32_GENERIC_C3-20260406-v1.28.0.bin into the adafruit webserial bootloader (https://adafruit.github.io/Adafruit_WebSerial_ESPTool/)(to start this, click the "connect" button on the upper right corner. no offset is needed.). 
+
 
 
 ## ***GALLERY***
