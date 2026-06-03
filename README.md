@@ -35,6 +35,6 @@ As a constant fiction writer, I've always wanted to create my own special dialog
 <img width="912" height="855" alt="image" src="https://github.com/user-attachments/assets/e04995ed-58f1-4e2f-9212-aef25ab4955a" />
 <img width="936" height="875" alt="image" src="https://github.com/user-attachments/assets/5edc34f3-2803-4226-8fe9-bbad878d5a77" />
 <img width="1428" height="933" alt="image" src="https://github.com/user-attachments/assets/6707f788-2f0c-439e-9d9f-83f6fe4b7fe6" />
-<img width="951" height="848" alt="image" src="https://github.com/user-attachments/assets/4dd11ec4-16a2-47c6-a2e7-274b8aadb3e2" />
-<img width="1123" height="908" alt="image" src="https://github.com/user-attachments/assets/d8504598-1f2a-44ed-9ae9-afa401452239" />
+<img width="716" height="661" alt="image" src="https://github.com/user-attachments/assets/f162d73c-6993-4076-931b-3526719d9ceb" />
+
 </details>
