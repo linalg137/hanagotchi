@@ -24,7 +24,8 @@ As a constant fiction writer, I've always wanted to create my own special dialog
 **soldering and putting everything together**
 1. solder the pieces together in their designated spots. You can use the .step file to see how it should look like in the end (the battery cell is optional). 
 2. After you're done soldering it, plug the ESP32 into your device using a USB-C.
-3. Import micropython onto your ESP32 by uploading the ESP32_GENERIC_C3-20260406-v1.28.0.bin into the adafruit webserial bootloader (https://adafruit.github.io/Adafruit_WebSerial_ESPTool/)(to start this, click the "connect" button on the upper right corner. no offset is needed.). 
+3. Import micropython onto your ESP32 by uploading the ESP32_GENERIC_C3-20260406-v1.28.0.bin into the adafruit webserial bootloader (https://adafruit.github.io/Adafruit_WebSerial_ESPTool/)(to start this, click the "connect" button on the upper right corner. no offset is needed.).
+4. upload the programs into the ESP32 using your coding development environment (ex; Thonny.) whenever you plug in the device, it should immeadiately start playing the intro (main) file!!
 
 
 
@@ -37,5 +38,7 @@ As a constant fiction writer, I've always wanted to create my own special dialog
 <img width="936" height="875" alt="image" src="https://github.com/user-attachments/assets/5edc34f3-2803-4226-8fe9-bbad878d5a77" />
 <img width="1428" height="933" alt="image" src="https://github.com/user-attachments/assets/6707f788-2f0c-439e-9d9f-83f6fe4b7fe6" />
 <img width="716" height="661" alt="image" src="https://github.com/user-attachments/assets/f162d73c-6993-4076-931b-3526719d9ceb" />
+<img width="362" height="395" alt="image" src="https://github.com/user-attachments/assets/a9893654-7c57-4536-8cc1-ac792ca504f6" />
+<img width="454" height="591" alt="image" src="https://github.com/user-attachments/assets/02c8e094-631d-4de2-9b57-8ef4df80c2a1" />
 
 </details>
