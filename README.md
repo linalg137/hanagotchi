@@ -42,3 +42,9 @@ As a constant fiction writer, I've always wanted to create my own special dialog
 <img width="454" height="591" alt="image" src="https://github.com/user-attachments/assets/02c8e094-631d-4de2-9b57-8ef4df80c2a1" />
 
 </details>
+
+## ***Credits~***
+This project used:
+- [KiCAD](https://www.kicad.org/) (for PCB design)
+- [Onshape](https://www.onshape.com/en/platform) (for case design)
+- [@TaniWanKenobi's Tamagotchi Guided Tutorial](https://fallout.hackclub.com/docs/guided-projects/tamagotchi) (for the base schematic layout) 
