@@ -1,5 +1,6 @@
 # HANAGOTCHI
---image--  
+<img width="567" height="807" alt="image" src="https://github.com/user-attachments/assets/cd4648ab-0474-4b21-a38f-8ce40088ae58" />
+  
 A small "tamagotchi", shaped like a flower. It has three interactive buttons and an OLED screen, and can play many different files-- coded in micropython. This isn't a generic "pet" tamagotchi-- you're guarding a dangerous invisible criminal-- try not to let them get out!!  
 
 ## ***Inspiration***
